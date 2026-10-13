@@ -1,0 +1,6 @@
+{
+  "name": "TravelEasy - Curated Holiday Packages & Stays",
+  "description": "Discover amazing destinations, book curated holiday packages, custom flights, and 24/7 concierge support in an immersive night-flight aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
